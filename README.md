@@ -24,10 +24,10 @@
 
 <h2 align="left">Get in touch</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipulkaranjkar94)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://idvipul.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/resume-%23F4B400.svg?style=for-the-badge&logo=document&logoColor=white)](https://drive.google.com/file/d/1tctm3F6mxOoAbZmXXkpBu5zWLp6lcZ7S/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulkaranjkar94@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipulkaranjkar94) &nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://idvipul.github.io/portfolio/) &nbsp;
+[![Resume](https://img.shields.io/badge/resume-%23F4B400.svg?style=for-the-badge&logo=document&logoColor=white)](https://drive.google.com/file/d/1tctm3F6mxOoAbZmXXkpBu5zWLp6lcZ7S/view?usp=sharing) &nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulkaranjkar94@gmail.com) &nbsp;
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=idvipul&label=Visitors&color=brightgreen&style=flat-square)
