@@ -26,7 +26,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipulkaranjkar94)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=browser&logoColor=white)](https://idvipul.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/resume-%23F4B400.svg?style=for-the-badge&logo=document&logoColor=white)](https://drive.google.com/file/d/16NnFaiw8Zq5LQlZcTiMG6LN2U8Td3iDF/view)
+[![Resume](https://img.shields.io/badge/resume-%23F4B400.svg?style=for-the-badge&logo=document&logoColor=white)](https://drive.google.com/file/d/1Txk8VUqWAZpMl-V_rQzHCjVnjjFkyNSv/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulkaranjkar94@gmail.com)
 
 
